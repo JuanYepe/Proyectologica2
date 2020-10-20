@@ -1,3 +1,3 @@
-public class PostreHorneado {
+public class PostreHorneado extends Postre{
     private boolean Hojaldra;
 }
